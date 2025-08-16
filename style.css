@@ -2,6 +2,7 @@ body{
     font-size: 15px;
     background-color: yellow;
     justify-content: center ;
+    font-size:'Times New Roman', Times, serif;
 }
 h1{
     text-align: center;
